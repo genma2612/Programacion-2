@@ -10,14 +10,15 @@ namespace Ejercicio00
     {
         static void Main(string[] args)
         {
+            Console.Title = "Ejercicio 00";
             string nombre;
+            int edad;
             Console.WriteLine("Ingresar nombre:");
             nombre = Console.ReadLine();
-            Console.WriteLine("Su nombre es: {0}", nombre); // Las "mascaras" se muestran como {0}, segùn cant. de parametros.
-
-
-
-
+            Console.WriteLine("Ingresar edad:");
+            int.Parse(edad) = Console.ReadLine(); //"." para metodos y atributos
+            Console.ForegroundColor = ConsoleColor.Blue;
+            Console.WriteLine("Su nombre es: {0} y su edad: {1}", nombre, edad); // Las "mascaras" se muestran como {0}, segùn cant. de parametros.
         }
     }
 }
