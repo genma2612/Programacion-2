@@ -1,0 +1,9 @@
+Laboratorio/Programaciòn 2 C# Visual Studio
+
+Console.Write(""); //Similar printf
+Console.WriteLine(""); Agrega \n automaticamente.
+Console.Read();    //Similar scanf
+Console.ReadLine();
+ 
+Las "mascaras" se muestran como {x} (index a 0), segùn cant. de parametros.
+EJ: console.Write("Su nombre es: {0}. Y su apellido: {1}.", nombre, apellido);
