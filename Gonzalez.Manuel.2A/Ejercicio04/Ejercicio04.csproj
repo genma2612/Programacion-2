@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{330C0399-C8D2-4985-8579-6D4F20042DB5}</ProjectGuid>
+    <ProjectGuid>{8F2325F6-EA6D-4EB4-B7FD-E5620925ECBC}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Ejercicio03</RootNamespace>
-    <AssemblyName>Ejercicio03</AssemblyName>
+    <RootNamespace>Ejercicio04</RootNamespace>
+    <AssemblyName>Ejercicio04</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,7 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
+    <Compile Include="NumeroPerfecto.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

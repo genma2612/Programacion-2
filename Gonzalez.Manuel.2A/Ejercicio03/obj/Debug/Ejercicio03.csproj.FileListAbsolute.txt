@@ -1,2 +1,9 @@
 D:\Lab 2 temp\Gonzalez.Manuel.2A\Ejercicio03\obj\Debug\Ejercicio03.csprojAssemblyReference.cache
 D:\Lab 2 temp\Gonzalez.Manuel.2A\Ejercicio03\obj\Debug\Ejercicio03.csproj.CoreCompileInputs.cache
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Clases Programacion y Laboratorio 2\Gonzalez.Manuel.2A\Ejercicio03\bin\Debug\Ejercicio03.exe.config
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Clases Programacion y Laboratorio 2\Gonzalez.Manuel.2A\Ejercicio03\bin\Debug\Ejercicio03.exe
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Clases Programacion y Laboratorio 2\Gonzalez.Manuel.2A\Ejercicio03\bin\Debug\Ejercicio03.pdb
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Clases Programacion y Laboratorio 2\Gonzalez.Manuel.2A\Ejercicio03\obj\Debug\Ejercicio03.csprojAssemblyReference.cache
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Clases Programacion y Laboratorio 2\Gonzalez.Manuel.2A\Ejercicio03\obj\Debug\Ejercicio03.csproj.CoreCompileInputs.cache
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Clases Programacion y Laboratorio 2\Gonzalez.Manuel.2A\Ejercicio03\obj\Debug\Ejercicio03.exe
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Clases Programacion y Laboratorio 2\Gonzalez.Manuel.2A\Ejercicio03\obj\Debug\Ejercicio03.pdb
