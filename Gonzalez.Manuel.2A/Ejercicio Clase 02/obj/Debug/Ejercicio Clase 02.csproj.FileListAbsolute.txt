@@ -4,3 +4,4 @@ D:\Lab 2 temp\Gonzalez.Manuel.2A\Ejercicio Clase 02\bin\Debug\Ejercicio Clase 02
 D:\Lab 2 temp\Gonzalez.Manuel.2A\Ejercicio Clase 02\obj\Debug\Ejercicio Clase 02.csproj.CoreCompileInputs.cache
 D:\Lab 2 temp\Gonzalez.Manuel.2A\Ejercicio Clase 02\obj\Debug\Ejercicio Clase 02.exe
 D:\Lab 2 temp\Gonzalez.Manuel.2A\Ejercicio Clase 02\obj\Debug\Ejercicio Clase 02.pdb
+D:\Lab 2 temp\Gonzalez.Manuel.2A\Ejercicio Clase 02\obj\Debug\Ejercicio Clase 02.csprojAssemblyReference.cache
