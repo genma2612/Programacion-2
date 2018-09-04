@@ -1,0 +1,7 @@
+D:\Lab2 Temp\Gonzalez.Manuel.2A\Ejercicio Clase 05\bin\Debug\Ejercicio Clase 05.exe.config
+D:\Lab2 Temp\Gonzalez.Manuel.2A\Ejercicio Clase 05\bin\Debug\Ejercicio Clase 05.exe
+D:\Lab2 Temp\Gonzalez.Manuel.2A\Ejercicio Clase 05\bin\Debug\Ejercicio Clase 05.pdb
+D:\Lab2 Temp\Gonzalez.Manuel.2A\Ejercicio Clase 05\obj\Debug\Ejercicio Clase 05.csprojAssemblyReference.cache
+D:\Lab2 Temp\Gonzalez.Manuel.2A\Ejercicio Clase 05\obj\Debug\Ejercicio Clase 05.csproj.CoreCompileInputs.cache
+D:\Lab2 Temp\Gonzalez.Manuel.2A\Ejercicio Clase 05\obj\Debug\Ejercicio Clase 05.exe
+D:\Lab2 Temp\Gonzalez.Manuel.2A\Ejercicio Clase 05\obj\Debug\Ejercicio Clase 05.pdb
