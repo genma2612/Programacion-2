@@ -1,0 +1,12 @@
+D:\Lab2 Temp\Gonzalez.Manuel.2A\Ejercicio Clase 06 Forms\bin\Debug\Ejercicio Clase 06 Forms.exe.config
+D:\Lab2 Temp\Gonzalez.Manuel.2A\Ejercicio Clase 06 Forms\bin\Debug\Ejercicio Clase 06 Forms.exe
+D:\Lab2 Temp\Gonzalez.Manuel.2A\Ejercicio Clase 06 Forms\bin\Debug\Ejercicio Clase 06 Forms.pdb
+D:\Lab2 Temp\Gonzalez.Manuel.2A\Ejercicio Clase 06 Forms\obj\Debug\Ejercicio Clase 06 Forms.csprojAssemblyReference.cache
+D:\Lab2 Temp\Gonzalez.Manuel.2A\Ejercicio Clase 06 Forms\obj\Debug\Ejercicio_Clase_06_Forms.Form1.resources
+D:\Lab2 Temp\Gonzalez.Manuel.2A\Ejercicio Clase 06 Forms\obj\Debug\Ejercicio_Clase_06_Forms.Form_Tinta.resources
+D:\Lab2 Temp\Gonzalez.Manuel.2A\Ejercicio Clase 06 Forms\obj\Debug\Ejercicio_Clase_06_Forms.Properties.Resources.resources
+D:\Lab2 Temp\Gonzalez.Manuel.2A\Ejercicio Clase 06 Forms\obj\Debug\Ejercicio Clase 06 Forms.csproj.GenerateResource.cache
+D:\Lab2 Temp\Gonzalez.Manuel.2A\Ejercicio Clase 06 Forms\obj\Debug\Ejercicio Clase 06 Forms.csproj.CoreCompileInputs.cache
+D:\Lab2 Temp\Gonzalez.Manuel.2A\Ejercicio Clase 06 Forms\obj\Debug\Ejercicio Clase 06 Forms.exe
+D:\Lab2 Temp\Gonzalez.Manuel.2A\Ejercicio Clase 06 Forms\obj\Debug\Ejercicio Clase 06 Forms.pdb
+D:\Lab2 Temp\Gonzalez.Manuel.2A\Ejercicio Clase 06 Forms\obj\Debug\Ejercicio_Clase_06_Forms.Form_Pluma.resources

@@ -15,7 +15,10 @@ namespace Ejercicio_Clase_05
 
         public static string Mostrar(Tinta elemento)
         {
-            return elemento.Mostrar();
+            if (!object.Equals(elemento, null))
+                return elemento.Mostrar();
+            else
+                return "";
         }
 
         private string Mostrar()
@@ -29,7 +32,14 @@ namespace Ejercicio_Clase_05
 
         public static bool operator ==(Tinta t1,Tinta t2)
         {
-            return t1._color == t2._color && t1._tipo == t2._tipo;
+            bool retorno = false;
+            if((object) t1 != null && (object) t2 != null) //Casteo a object para comparar mediante el == de object y no la sobrecarga realizada.
+            //if(object.Equals(t1, null) && object.Equals(t2, null))
+            {
+                if (t1._color == t2._color && t1._tipo == t2._tipo)
+                    retorno = true;
+            }
+            return retorno;
         }
 
         public static bool operator !=(Tinta t1, Tinta t2)
