@@ -12,6 +12,7 @@ namespace Ejercicio10
         {
             Console.Title = "Ejercicio 10";
             int altura;
+            int espacio;
             int dot = 1;
             Console.Write("Ingrese la altura de la piramide: ");
             do
@@ -23,18 +24,23 @@ namespace Ejercicio10
                 }
             } while (altura < 1);
             Console.WriteLine();
+            espacio = altura - 1;
             for (int i = 0; i < altura; i++)
             {
-                for (int j = 0; j < dot; j++)
+                for (int j = espacio; j > 0; j--)
+                {
+                    Console.Write(" ");
+                }
+                for (int k = 0; k < dot; k++)
                 {
                     Console.Write("*");
                 }
                 dot += 2;
+                espacio--;
                 Console.WriteLine();
             }
             Console.Write("\nPresione enter para salir...");
             Console.ReadLine();
-
         }
     }
 }

@@ -11,8 +11,18 @@ namespace Ejercicio09
         static void Main(string[] args)
         {
             Console.Title = "Ejercicio 09";
-            int altura = 5;
+            int altura;
             int dot = 1;
+            Console.Write("Ingrese la altura de la piramide: ");
+            do
+            {
+                altura = int.Parse(Console.ReadLine());
+                if (altura < 1)
+                {
+                    Console.WriteLine("ERROR: El numero debe ser un entero positivo");
+                }
+            } while (altura < 1);
+            Console.WriteLine();
             for (int i = 0; i < altura; i++)
             {
                 for (int j = 0; j < dot; j++)
@@ -22,7 +32,7 @@ namespace Ejercicio09
                 dot += 2;
                 Console.WriteLine();
             }
-            Console.Write("Presione enter para salir...");
+            Console.Write("\nPresione enter para salir...");
             Console.ReadLine();
         }
     }

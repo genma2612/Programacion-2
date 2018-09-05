@@ -21,7 +21,7 @@ namespace Ejercicio_Clase_05
         private string Mostrar()
         {
             string retorno;
-            retorno = "La tinta es " + this._tipo + " de color " + this._color + ".";
+            retorno = "TINTA: " + this._tipo + " COLOR: " + this._color + ".";
             return retorno;
         }
 
