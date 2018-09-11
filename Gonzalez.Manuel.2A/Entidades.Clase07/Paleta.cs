@@ -104,7 +104,6 @@ namespace Entidades.Clase07
             return PAL;
         }
 
-
         private Paleta() :this(5)
         {
         }
