@@ -1,0 +1,6 @@
+D:\#Lab 2 Temp\Gonzalez.Manuel.2A\Entidades.Clase07\obj\Debug\Entidades.Clase07.csprojAssemblyReference.cache
+D:\#Lab 2 Temp\Gonzalez.Manuel.2A\Entidades.Clase07\obj\Debug\Entidades.Clase07.csproj.CoreCompileInputs.cache
+D:\#Lab 2 Temp\Gonzalez.Manuel.2A\Entidades.Clase07\bin\Debug\Entidades.Clase07.dll
+D:\#Lab 2 Temp\Gonzalez.Manuel.2A\Entidades.Clase07\bin\Debug\Entidades.Clase07.pdb
+D:\#Lab 2 Temp\Gonzalez.Manuel.2A\Entidades.Clase07\obj\Debug\Entidades.Clase07.dll
+D:\#Lab 2 Temp\Gonzalez.Manuel.2A\Entidades.Clase07\obj\Debug\Entidades.Clase07.pdb

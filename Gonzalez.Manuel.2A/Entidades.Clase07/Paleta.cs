@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Entidades.Clase07
 {
-    class Paleta
+    public class Paleta
     {
         private Tempera[] _colores;
         private int _cantMaximaElementos;
@@ -103,7 +103,22 @@ namespace Entidades.Clase07
             }
             return PAL;
         }
-
+        
+        public static Paleta operator -(Paleta PAL, Tempera TEMP)
+        {
+            int indice = PAL.ObtenerIndice(TEMP);
+            if (indice > -1)
+            {
+                sbyte aux = (sbyte)TEMP;
+                sbyte aux2 = (sbyte)PAL._colores[indice];
+                if (aux2 - aux < 1)
+                    PAL._colores[indice] = null;
+                else
+                    PAL._colores[indice] += (sbyte)(aux2 * -1);
+            }
+            return PAL;
+        }
+        
         private Paleta() :this(5)
         {
         }

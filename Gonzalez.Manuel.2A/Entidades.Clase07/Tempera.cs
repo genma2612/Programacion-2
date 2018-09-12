@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Entidades.Clase07
 {
-    class Tempera
+    public class Tempera
     {
         #region Parametros
 
@@ -70,6 +70,26 @@ namespace Entidades.Clase07
             }
             return retorno;
         }
+
+        /*
+        public static Tempera operator -(Tempera t1, sbyte cant)
+        {
+            t1._cantidad -= cant;
+            if (t1._cantidad < 0)
+                t1._cantidad = 0;
+            return t1;
+        }
+
+        public static Tempera operator -(Tempera t1, Tempera t2)
+        {
+            Tempera retorno = new Tempera(t1._marca, t1._color, t1._cantidad);
+            if (t1 == t2)
+            {
+                retorno -= t2._cantidad;
+            }
+            return retorno;
+        }
+        */
 
         #endregion
 

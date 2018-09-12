@@ -1,0 +1,14 @@
+D:\#Lab 2 Temp\Gonzalez.Manuel.2A\Ejercicio Clase 08 TestWF\obj\Debug\Ejercicio Clase 08 TestWF.csprojAssemblyReference.cache
+D:\#Lab 2 Temp\Gonzalez.Manuel.2A\Ejercicio Clase 08 TestWF\obj\Debug\Ejercicio_Clase_08_TestWF.Form1.resources
+D:\#Lab 2 Temp\Gonzalez.Manuel.2A\Ejercicio Clase 08 TestWF\obj\Debug\Ejercicio_Clase_08_TestWF.Properties.Resources.resources
+D:\#Lab 2 Temp\Gonzalez.Manuel.2A\Ejercicio Clase 08 TestWF\obj\Debug\Ejercicio Clase 08 TestWF.csproj.GenerateResource.cache
+D:\#Lab 2 Temp\Gonzalez.Manuel.2A\Ejercicio Clase 08 TestWF\obj\Debug\Ejercicio Clase 08 TestWF.csproj.CoreCompileInputs.cache
+D:\#Lab 2 Temp\Gonzalez.Manuel.2A\Ejercicio Clase 08 TestWF\bin\Debug\Ejercicio Clase 08 TestWF.exe.config
+D:\#Lab 2 Temp\Gonzalez.Manuel.2A\Ejercicio Clase 08 TestWF\bin\Debug\Ejercicio Clase 08 TestWF.exe
+D:\#Lab 2 Temp\Gonzalez.Manuel.2A\Ejercicio Clase 08 TestWF\bin\Debug\Ejercicio Clase 08 TestWF.pdb
+D:\#Lab 2 Temp\Gonzalez.Manuel.2A\Ejercicio Clase 08 TestWF\bin\Debug\Entidades.Clase07.dll
+D:\#Lab 2 Temp\Gonzalez.Manuel.2A\Ejercicio Clase 08 TestWF\bin\Debug\Entidades.Clase07.pdb
+D:\#Lab 2 Temp\Gonzalez.Manuel.2A\Ejercicio Clase 08 TestWF\obj\Debug\Ejercicio Clase 08 TestWF.csproj.CopyComplete
+D:\#Lab 2 Temp\Gonzalez.Manuel.2A\Ejercicio Clase 08 TestWF\obj\Debug\Ejercicio Clase 08 TestWF.exe
+D:\#Lab 2 Temp\Gonzalez.Manuel.2A\Ejercicio Clase 08 TestWF\obj\Debug\Ejercicio Clase 08 TestWF.pdb
+D:\#Lab 2 Temp\Gonzalez.Manuel.2A\Ejercicio Clase 08 TestWF\obj\Debug\Ejercicio_Clase_08_TestWF.FWRTempera.resources
