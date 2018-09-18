@@ -16,6 +16,30 @@ namespace Entidades.Clase07
 
         #endregion
 
+        public sbyte Cantidad
+        {
+            get
+            {
+                return this._cantidad;
+            }
+        }
+
+        public ConsoleColor Color
+        {
+            get
+            {
+                return this._color;
+            }
+        }
+
+        public string Marca
+        {
+            get
+            {
+                return this._marca;
+            }
+        }
+
         #region Mètodos
 
         private string Mostrar()

@@ -34,9 +34,9 @@ namespace Ejercicio_Clase_08_TestWF
 
         public FWRTempera(Tempera Temp) : this()
         {
-            this.textBox1.Text = ((sbyte) Temp).ToString();
-            //this.textBox1.Text = ;
-            //this.cboColor.SelectedItem = ;
+            this.textBox1.Text = Temp.Cantidad.ToString();
+            this.textBox2.Text = Temp.Marca;
+            this.cboColor.SelectedItem = Temp.Color;
         }
 
         private void button2_Click(object sender, EventArgs e)

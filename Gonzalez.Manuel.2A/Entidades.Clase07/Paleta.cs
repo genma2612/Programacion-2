@@ -21,18 +21,12 @@ namespace Entidades.Clase07
 
         private string Mostrar()
         {
-            string retorno = "Cant. de espacios: " + this._cantMaximaElementos;
+            string retorno = "Cant. de espacios: " + this._cantMaximaElementos + " -- Colores:\r\n";
             for (int i = 0; i < this._cantMaximaElementos; i++)
             {
                 if ( (object) this._colores[i] != null)
                 {
-                    retorno += " Colores:\r\n";
-                    foreach (Tempera T in this._colores)
-                    {
-                        retorno += T;
-                        retorno += "\r\n";
-                    }
-                    return retorno;
+                    retorno += this._colores[i] + "\r\n";
                 }
             }
             return retorno;
