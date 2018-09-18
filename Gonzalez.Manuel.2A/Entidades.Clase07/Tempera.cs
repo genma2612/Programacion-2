@@ -20,9 +20,7 @@ namespace Entidades.Clase07
 
         private string Mostrar()
         {
-            string retorno;
-            retorno = "MARCA: " + this._marca + " COLOR: " + this._color + "CANTIDAD: " + this._cantidad + ".";
-            return retorno;
+            return "Marca: " + this._marca + " Color: " + this._color + " Cantidad: " + this._cantidad + ".";
         }
 
         #endregion
@@ -31,7 +29,10 @@ namespace Entidades.Clase07
 
         public static implicit operator string(Tempera elemento) //retorna marca color cant.
         {
-            return elemento.Mostrar();
+            string retorno = "";
+            if ((object) elemento != null)
+                retorno += elemento.Mostrar();
+            return retorno;
         }
 
         public static explicit operator sbyte(Tempera elemento) //retorna cant.

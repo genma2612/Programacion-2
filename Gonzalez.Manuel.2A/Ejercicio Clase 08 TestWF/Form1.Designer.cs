@@ -57,6 +57,7 @@
             this.button2.TabIndex = 1;
             this.button2.Text = "-";
             this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // textBox1
             // 
@@ -100,7 +101,7 @@
             // agregarPaletaToolStripMenuItem
             // 
             this.agregarPaletaToolStripMenuItem.Name = "agregarPaletaToolStripMenuItem";
-            this.agregarPaletaToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.agregarPaletaToolStripMenuItem.Size = new System.Drawing.Size(151, 22);
             this.agregarPaletaToolStripMenuItem.Text = "Agregar Paleta";
             this.agregarPaletaToolStripMenuItem.Click += new System.EventHandler(this.agregarPaletaToolStripMenuItem_Click);
             // 

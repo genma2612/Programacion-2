@@ -37,5 +37,10 @@ namespace Ejercicio_Clase_08_TestWF
             this._miTempera = new Tempera(this.textBox2.Text, (ConsoleColor)this.cboColor.SelectedItem, sbyte.Parse(this.textBox1.Text));
             this.DialogResult = DialogResult.OK;
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            this.DialogResult = DialogResult.Cancel;
+        }
     }
 }

@@ -19,7 +19,8 @@ namespace Entidades.Clase07
                 retorno += " Colores:\n";
                 foreach (Tempera T in this._colores)
                 {
-                    retorno += T + "\n";
+                    retorno += T;
+                    retorno += "\n";
                 }
                 return retorno;
             }
@@ -31,9 +32,10 @@ namespace Entidades.Clase07
             int indice=-1;
             for (int i = 0; i <this._cantMaximaElementos; i++)
             {
-                if (this._colores.GetValue(i) != null)
+                if (this._colores.GetValue(i) == null)
                 {
                     indice = i;
+                    break;
                 }
             }
             return indice;
@@ -109,12 +111,14 @@ namespace Entidades.Clase07
             int indice = PAL.ObtenerIndice(TEMP);
             if (indice > -1)
             {
-                sbyte aux = (sbyte)TEMP;
-                sbyte aux2 = (sbyte)PAL._colores[indice];
-                if (aux2 - aux < 1)
+                //sbyte aux = (sbyte)TEMP;
+                //sbyte aux2 = (sbyte)PAL._colores[indice];
+                //if (aux2 - aux < 1)
+                if( (sbyte) PAL._colores[indice] - (sbyte) TEMP < 1)
                     PAL._colores[indice] = null;
                 else
-                    PAL._colores[indice] += (sbyte)(aux2 * -1);
+                    PAL._colores[indice] += (sbyte) ( (sbyte) TEMP * -1);
+                //PAL._colores[indice] += ((sbyte) (aux * -1));
             }
             return PAL;
         }

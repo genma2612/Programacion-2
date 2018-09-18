@@ -42,5 +42,16 @@ namespace Ejercicio_Clase_08_TestWF
                 this.textBox1.Text = (string) _miPaleta;
             }
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            FWRTempera fortemp = new FWRTempera();
+            DialogResult result = fortemp.ShowDialog();
+            if (result == DialogResult.OK)
+            {
+                this._miPaleta -= fortemp.MiTempera;
+                this.textBox1.Text = (string)_miPaleta;
+            }
+        }
     }
 }
