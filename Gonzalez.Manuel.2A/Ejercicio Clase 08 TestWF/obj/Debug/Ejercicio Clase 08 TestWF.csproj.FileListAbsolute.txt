@@ -26,3 +26,17 @@ D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Clases Programacion y Labor
 D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Clases Programacion y Laboratorio 2\Gonzalez.Manuel.2A\Ejercicio Clase 08 TestWF\obj\Debug\Ejercicio Clase 08 TestWF.csproj.CopyComplete
 D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Clases Programacion y Laboratorio 2\Gonzalez.Manuel.2A\Ejercicio Clase 08 TestWF\obj\Debug\Ejercicio Clase 08 TestWF.exe
 D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Clases Programacion y Laboratorio 2\Gonzalez.Manuel.2A\Ejercicio Clase 08 TestWF\obj\Debug\Ejercicio Clase 08 TestWF.pdb
+D:\#PROG2 Temp\Gonzalez.Manuel.2A\Ejercicio Clase 08 TestWF\bin\Debug\Ejercicio Clase 08 TestWF.exe.config
+D:\#PROG2 Temp\Gonzalez.Manuel.2A\Ejercicio Clase 08 TestWF\bin\Debug\Ejercicio Clase 08 TestWF.exe
+D:\#PROG2 Temp\Gonzalez.Manuel.2A\Ejercicio Clase 08 TestWF\bin\Debug\Ejercicio Clase 08 TestWF.pdb
+D:\#PROG2 Temp\Gonzalez.Manuel.2A\Ejercicio Clase 08 TestWF\bin\Debug\Entidades.Clase07.dll
+D:\#PROG2 Temp\Gonzalez.Manuel.2A\Ejercicio Clase 08 TestWF\bin\Debug\Entidades.Clase07.pdb
+D:\#PROG2 Temp\Gonzalez.Manuel.2A\Ejercicio Clase 08 TestWF\obj\Debug\Ejercicio Clase 08 TestWF.csprojAssemblyReference.cache
+D:\#PROG2 Temp\Gonzalez.Manuel.2A\Ejercicio Clase 08 TestWF\obj\Debug\Ejercicio_Clase_08_TestWF.Form1.resources
+D:\#PROG2 Temp\Gonzalez.Manuel.2A\Ejercicio Clase 08 TestWF\obj\Debug\Ejercicio_Clase_08_TestWF.FWRTempera.resources
+D:\#PROG2 Temp\Gonzalez.Manuel.2A\Ejercicio Clase 08 TestWF\obj\Debug\Ejercicio_Clase_08_TestWF.Properties.Resources.resources
+D:\#PROG2 Temp\Gonzalez.Manuel.2A\Ejercicio Clase 08 TestWF\obj\Debug\Ejercicio Clase 08 TestWF.csproj.GenerateResource.cache
+D:\#PROG2 Temp\Gonzalez.Manuel.2A\Ejercicio Clase 08 TestWF\obj\Debug\Ejercicio Clase 08 TestWF.csproj.CoreCompileInputs.cache
+D:\#PROG2 Temp\Gonzalez.Manuel.2A\Ejercicio Clase 08 TestWF\obj\Debug\Ejercicio Clase 08 TestWF.csproj.CopyComplete
+D:\#PROG2 Temp\Gonzalez.Manuel.2A\Ejercicio Clase 08 TestWF\obj\Debug\Ejercicio Clase 08 TestWF.exe
+D:\#PROG2 Temp\Gonzalez.Manuel.2A\Ejercicio Clase 08 TestWF\obj\Debug\Ejercicio Clase 08 TestWF.pdb

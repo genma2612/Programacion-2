@@ -45,13 +45,24 @@ namespace Ejercicio_Clase_08_TestWF
 
         private void button2_Click(object sender, EventArgs e)
         {
-            FWRTempera fortemp = new FWRTempera();
+            int linea = -1;
+            foreach (string item in this.textBox1.Lines) // Separo el string en un array de string (separa cada linea con la propiedad .Lines) 
+            {                                            // y comparo con la linea seleccionada.
+                if (this.textBox1.SelectedText == item)
+                    break;
+                linea++;
+            }
+
+            //MessageBox.Show(this.textBox1.SelectedText + " Indice: " + linea.ToString());
+            //Tempera test = new Tempera("AAA", ConsoleColor.Cyan, 50);
+
+            FWRTempera fortemp = new FWRTempera(_miPaleta[linea]);
             DialogResult result = fortemp.ShowDialog();
             if (result == DialogResult.OK)
             {
                 this._miPaleta -= fortemp.MiTempera;
                 this.textBox1.Text = (string)_miPaleta;
-            }
+            }    
         }
     }
 }

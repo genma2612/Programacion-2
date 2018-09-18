@@ -61,6 +61,7 @@
             // 
             // textBox1
             // 
+            this.textBox1.ImeMode = System.Windows.Forms.ImeMode.NoControl;
             this.textBox1.Location = new System.Drawing.Point(12, 19);
             this.textBox1.Multiline = true;
             this.textBox1.Name = "textBox1";

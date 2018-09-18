@@ -50,6 +50,7 @@
             // 
             // button2
             // 
+            this.button2.DialogResult = System.Windows.Forms.DialogResult.OK;
             this.button2.Location = new System.Drawing.Point(19, 174);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(75, 23);
@@ -71,7 +72,7 @@
             this.textBox1.Location = new System.Drawing.Point(19, 136);
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(156, 20);
-            this.textBox1.TabIndex = 3;
+            this.textBox1.TabIndex = 5;
             // 
             // textBox2
             // 

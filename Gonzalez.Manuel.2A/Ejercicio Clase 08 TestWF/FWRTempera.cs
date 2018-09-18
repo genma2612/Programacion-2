@@ -32,6 +32,13 @@ namespace Ejercicio_Clase_08_TestWF
             this.cboColor.DropDownStyle = ComboBoxStyle.DropDownList;
         }
 
+        public FWRTempera(Tempera Temp) : this()
+        {
+            this.textBox1.Text = ((sbyte) Temp).ToString();
+            //this.textBox1.Text = ;
+            //this.cboColor.SelectedItem = ;
+        }
+
         private void button2_Click(object sender, EventArgs e)
         {
             this._miTempera = new Tempera(this.textBox2.Text, (ConsoleColor)this.cboColor.SelectedItem, sbyte.Parse(this.textBox1.Text));
