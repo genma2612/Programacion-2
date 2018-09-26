@@ -20,7 +20,6 @@ namespace Ejercicio_Clase_08_TestWF
             get { return this._miTempera; }
         }
 
-
         public FWRTempera()
         {
             InitializeComponent();

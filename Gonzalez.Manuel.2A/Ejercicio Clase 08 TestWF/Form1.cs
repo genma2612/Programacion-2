@@ -14,7 +14,7 @@ namespace Ejercicio_Clase_08_TestWF
     public partial class Form1 : Form
     {
 
-        Paleta _miPaleta;
+        PaletaColeccion _miPaleta;
 
         public Form1()
         {
