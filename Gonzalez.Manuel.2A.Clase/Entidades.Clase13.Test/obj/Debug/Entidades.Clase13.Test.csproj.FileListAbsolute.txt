@@ -1,0 +1,10 @@
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Clases Programacion y Laboratorio 2\Gonzalez.Manuel.2A.Clase\Entidades.Clase13.Test\bin\Debug\Entidades.Clase13.Test.exe.config
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Clases Programacion y Laboratorio 2\Gonzalez.Manuel.2A.Clase\Entidades.Clase13.Test\bin\Debug\Entidades.Clase13.Test.exe
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Clases Programacion y Laboratorio 2\Gonzalez.Manuel.2A.Clase\Entidades.Clase13.Test\bin\Debug\Entidades.Clase13.Test.pdb
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Clases Programacion y Laboratorio 2\Gonzalez.Manuel.2A.Clase\Entidades.Clase13.Test\bin\Debug\Entidades.Clase13.dll
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Clases Programacion y Laboratorio 2\Gonzalez.Manuel.2A.Clase\Entidades.Clase13.Test\bin\Debug\Entidades.Clase13.pdb
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Clases Programacion y Laboratorio 2\Gonzalez.Manuel.2A.Clase\Entidades.Clase13.Test\obj\Debug\Entidades.Clase13.Test.csprojAssemblyReference.cache
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Clases Programacion y Laboratorio 2\Gonzalez.Manuel.2A.Clase\Entidades.Clase13.Test\obj\Debug\Entidades.Clase13.Test.csproj.CoreCompileInputs.cache
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Clases Programacion y Laboratorio 2\Gonzalez.Manuel.2A.Clase\Entidades.Clase13.Test\obj\Debug\Entidades.Clase13.Test.csproj.CopyComplete
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Clases Programacion y Laboratorio 2\Gonzalez.Manuel.2A.Clase\Entidades.Clase13.Test\obj\Debug\Entidades.Clase13.Test.exe
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Clases Programacion y Laboratorio 2\Gonzalez.Manuel.2A.Clase\Entidades.Clase13.Test\obj\Debug\Entidades.Clase13.Test.pdb

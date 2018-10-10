@@ -1,0 +1,10 @@
+D:\Genma\Escritorio\Testeo\Testeo\bin\Debug\Testeo.exe.config
+D:\Genma\Escritorio\Testeo\Testeo\bin\Debug\Testeo.exe
+D:\Genma\Escritorio\Testeo\Testeo\bin\Debug\Testeo.pdb
+D:\Genma\Escritorio\Testeo\Testeo\bin\Debug\Entidades.Clase13.dll
+D:\Genma\Escritorio\Testeo\Testeo\bin\Debug\Entidades.Clase13.pdb
+D:\Genma\Escritorio\Testeo\Testeo\obj\Debug\Testeo.csprojAssemblyReference.cache
+D:\Genma\Escritorio\Testeo\Testeo\obj\Debug\Testeo.csproj.CoreCompileInputs.cache
+D:\Genma\Escritorio\Testeo\Testeo\obj\Debug\Testeo.csproj.CopyComplete
+D:\Genma\Escritorio\Testeo\Testeo\obj\Debug\Testeo.exe
+D:\Genma\Escritorio\Testeo\Testeo\obj\Debug\Testeo.pdb
