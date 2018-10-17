@@ -8,3 +8,13 @@ D:\Genma\Escritorio\Gonzalez.Manuel.2A\Test\obj\Debug\Test.csproj.CoreCompileInp
 D:\Genma\Escritorio\Gonzalez.Manuel.2A\Test\obj\Debug\Test.csproj.CopyComplete
 D:\Genma\Escritorio\Gonzalez.Manuel.2A\Test\obj\Debug\Test.exe
 D:\Genma\Escritorio\Gonzalez.Manuel.2A\Test\obj\Debug\Test.pdb
+D:\#LAB2\Examenes\Parcial 1\Gonzalez.Manuel.2A\Test\bin\Debug\Test.exe.config
+D:\#LAB2\Examenes\Parcial 1\Gonzalez.Manuel.2A\Test\bin\Debug\Test.exe
+D:\#LAB2\Examenes\Parcial 1\Gonzalez.Manuel.2A\Test\bin\Debug\Test.pdb
+D:\#LAB2\Examenes\Parcial 1\Gonzalez.Manuel.2A\Test\bin\Debug\Entidades.dll
+D:\#LAB2\Examenes\Parcial 1\Gonzalez.Manuel.2A\Test\bin\Debug\Entidades.pdb
+D:\#LAB2\Examenes\Parcial 1\Gonzalez.Manuel.2A\Test\obj\Debug\Test.csprojAssemblyReference.cache
+D:\#LAB2\Examenes\Parcial 1\Gonzalez.Manuel.2A\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+D:\#LAB2\Examenes\Parcial 1\Gonzalez.Manuel.2A\Test\obj\Debug\Test.csproj.CopyComplete
+D:\#LAB2\Examenes\Parcial 1\Gonzalez.Manuel.2A\Test\obj\Debug\Test.exe
+D:\#LAB2\Examenes\Parcial 1\Gonzalez.Manuel.2A\Test\obj\Debug\Test.pdb

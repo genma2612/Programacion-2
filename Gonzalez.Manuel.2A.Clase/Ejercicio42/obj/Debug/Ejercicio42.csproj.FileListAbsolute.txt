@@ -1,0 +1,7 @@
+D:\#LAB2\Gonzalez.Manuel.2A.Clase\Ejercicio42\bin\Debug\Ejercicio42.exe.config
+D:\#LAB2\Gonzalez.Manuel.2A.Clase\Ejercicio42\bin\Debug\Ejercicio42.exe
+D:\#LAB2\Gonzalez.Manuel.2A.Clase\Ejercicio42\bin\Debug\Ejercicio42.pdb
+D:\#LAB2\Gonzalez.Manuel.2A.Clase\Ejercicio42\obj\Debug\Ejercicio42.csprojAssemblyReference.cache
+D:\#LAB2\Gonzalez.Manuel.2A.Clase\Ejercicio42\obj\Debug\Ejercicio42.csproj.CoreCompileInputs.cache
+D:\#LAB2\Gonzalez.Manuel.2A.Clase\Ejercicio42\obj\Debug\Ejercicio42.exe
+D:\#LAB2\Gonzalez.Manuel.2A.Clase\Ejercicio42\obj\Debug\Ejercicio42.pdb

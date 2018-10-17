@@ -4,3 +4,9 @@ D:\Genma\Escritorio\Gonzalez.Manuel.2A\Entidades\obj\Debug\Entidades.csprojAssem
 D:\Genma\Escritorio\Gonzalez.Manuel.2A\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
 D:\Genma\Escritorio\Gonzalez.Manuel.2A\Entidades\obj\Debug\Entidades.dll
 D:\Genma\Escritorio\Gonzalez.Manuel.2A\Entidades\obj\Debug\Entidades.pdb
+D:\#LAB2\Examenes\Parcial 1\Gonzalez.Manuel.2A\Entidades\bin\Debug\Entidades.dll
+D:\#LAB2\Examenes\Parcial 1\Gonzalez.Manuel.2A\Entidades\bin\Debug\Entidades.pdb
+D:\#LAB2\Examenes\Parcial 1\Gonzalez.Manuel.2A\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\#LAB2\Examenes\Parcial 1\Gonzalez.Manuel.2A\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\#LAB2\Examenes\Parcial 1\Gonzalez.Manuel.2A\Entidades\obj\Debug\Entidades.dll
+D:\#LAB2\Examenes\Parcial 1\Gonzalez.Manuel.2A\Entidades\obj\Debug\Entidades.pdb
