@@ -1,0 +1,7 @@
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Clases Programacion y Laboratorio 2\Gonzalez.Manuel.2A.Guia\Ejercicio16\bin\Debug\Ejercicio16.exe.config
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Clases Programacion y Laboratorio 2\Gonzalez.Manuel.2A.Guia\Ejercicio16\bin\Debug\Ejercicio16.exe
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Clases Programacion y Laboratorio 2\Gonzalez.Manuel.2A.Guia\Ejercicio16\bin\Debug\Ejercicio16.pdb
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Clases Programacion y Laboratorio 2\Gonzalez.Manuel.2A.Guia\Ejercicio16\obj\Debug\Ejercicio16.csprojAssemblyReference.cache
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Clases Programacion y Laboratorio 2\Gonzalez.Manuel.2A.Guia\Ejercicio16\obj\Debug\Ejercicio16.csproj.CoreCompileInputs.cache
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Clases Programacion y Laboratorio 2\Gonzalez.Manuel.2A.Guia\Ejercicio16\obj\Debug\Ejercicio16.exe
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Clases Programacion y Laboratorio 2\Gonzalez.Manuel.2A.Guia\Ejercicio16\obj\Debug\Ejercicio16.pdb
