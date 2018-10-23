@@ -1,0 +1,8 @@
+agrego \\ para escapar en cada contrabarra o @ antes de la cadena (ignora secuencias de escape)
+StreamWriter sw = new StreamWriter(path, false); //true agrega màs info, false sobreescribe todo el contenido.
+Bloque using: invoca automaticamente el cierre .close().
+using(streamwriter() )
+{ 
+
+}
+

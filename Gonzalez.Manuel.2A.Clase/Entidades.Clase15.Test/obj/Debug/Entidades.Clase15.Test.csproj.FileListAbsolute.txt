@@ -1,0 +1,10 @@
+D:\#Lab2Temp\Gonzalez.Manuel.2A.Clase\Entidades.Clase15.Test\bin\Debug\Entidades.Clase15.Test.exe.config
+D:\#Lab2Temp\Gonzalez.Manuel.2A.Clase\Entidades.Clase15.Test\bin\Debug\Entidades.Clase15.Test.exe
+D:\#Lab2Temp\Gonzalez.Manuel.2A.Clase\Entidades.Clase15.Test\bin\Debug\Entidades.Clase15.Test.pdb
+D:\#Lab2Temp\Gonzalez.Manuel.2A.Clase\Entidades.Clase15.Test\bin\Debug\Entidades.Clase15.dll
+D:\#Lab2Temp\Gonzalez.Manuel.2A.Clase\Entidades.Clase15.Test\bin\Debug\Entidades.Clase15.pdb
+D:\#Lab2Temp\Gonzalez.Manuel.2A.Clase\Entidades.Clase15.Test\obj\Debug\Entidades.Clase15.Test.csprojAssemblyReference.cache
+D:\#Lab2Temp\Gonzalez.Manuel.2A.Clase\Entidades.Clase15.Test\obj\Debug\Entidades.Clase15.Test.csproj.CoreCompileInputs.cache
+D:\#Lab2Temp\Gonzalez.Manuel.2A.Clase\Entidades.Clase15.Test\obj\Debug\Entidades.Clase15.Test.csproj.CopyComplete
+D:\#Lab2Temp\Gonzalez.Manuel.2A.Clase\Entidades.Clase15.Test\obj\Debug\Entidades.Clase15.Test.exe
+D:\#Lab2Temp\Gonzalez.Manuel.2A.Clase\Entidades.Clase15.Test\obj\Debug\Entidades.Clase15.Test.pdb

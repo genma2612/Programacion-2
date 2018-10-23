@@ -1,0 +1,6 @@
+D:\#Lab2Temp\Gonzalez.Manuel.2A.Clase\Entidades.Clase15-Parte2\bin\Debug\Entidades.Clase15-Parte2.dll
+D:\#Lab2Temp\Gonzalez.Manuel.2A.Clase\Entidades.Clase15-Parte2\bin\Debug\Entidades.Clase15-Parte2.pdb
+D:\#Lab2Temp\Gonzalez.Manuel.2A.Clase\Entidades.Clase15-Parte2\obj\Debug\Entidades.Clase15-Parte2.csproj.CoreCompileInputs.cache
+D:\#Lab2Temp\Gonzalez.Manuel.2A.Clase\Entidades.Clase15-Parte2\obj\Debug\Entidades.Clase15-Parte2.dll
+D:\#Lab2Temp\Gonzalez.Manuel.2A.Clase\Entidades.Clase15-Parte2\obj\Debug\Entidades.Clase15-Parte2.pdb
+D:\#Lab2Temp\Gonzalez.Manuel.2A.Clase\Entidades.Clase15-Parte2\obj\Debug\Entidades.Clase15-Parte2.csprojAssemblyReference.cache

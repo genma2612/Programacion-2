@@ -182,11 +182,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\#LAB2\\Gonzalez.Manuel.2A.Clase\\Entidades\\Entidades.csproj",
+      "projectUniqueName": "D:\\#Lab2Temp\\Gonzalez.Manuel.2A.Clase\\Entidades\\Entidades.csproj",
       "projectName": "Entidades",
-      "projectPath": "D:\\#LAB2\\Gonzalez.Manuel.2A.Clase\\Entidades\\Entidades.csproj",
+      "projectPath": "D:\\#Lab2Temp\\Gonzalez.Manuel.2A.Clase\\Entidades\\Entidades.csproj",
       "packagesPath": "C:\\Users\\alumno\\.nuget\\packages\\",
-      "outputPath": "D:\\#LAB2\\Gonzalez.Manuel.2A.Clase\\Entidades\\obj\\",
+      "outputPath": "D:\\#Lab2Temp\\Gonzalez.Manuel.2A.Clase\\Entidades\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\alumno\\AppData\\Roaming\\NuGet\\NuGet.Config",
