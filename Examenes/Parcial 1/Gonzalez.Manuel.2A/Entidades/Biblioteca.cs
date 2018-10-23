@@ -50,10 +50,13 @@ namespace Entidades
             retorno.AppendLine("**************************************************");
             foreach (Libro item in e._libros)
             {
+                retorno.AppendLine((string)item);
+                /*
                 if (item is Manual)
                     retorno.AppendLine(((Manual)item).Mostrar());
                 if (item is Novela)
                     retorno.AppendLine(((Novela)item).Mostrar());
+                */
             }
             return retorno.ToString();
         }

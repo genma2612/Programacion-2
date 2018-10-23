@@ -10,3 +10,9 @@ D:\#LAB2\Examenes\Parcial 1\Gonzalez.Manuel.2A\Entidades\obj\Debug\Entidades.csp
 D:\#LAB2\Examenes\Parcial 1\Gonzalez.Manuel.2A\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
 D:\#LAB2\Examenes\Parcial 1\Gonzalez.Manuel.2A\Entidades\obj\Debug\Entidades.dll
 D:\#LAB2\Examenes\Parcial 1\Gonzalez.Manuel.2A\Entidades\obj\Debug\Entidades.pdb
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Clases Programacion y Laboratorio 2\Examenes\Parcial 1\Gonzalez.Manuel.2A\Entidades\bin\Debug\Entidades.dll
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Clases Programacion y Laboratorio 2\Examenes\Parcial 1\Gonzalez.Manuel.2A\Entidades\bin\Debug\Entidades.pdb
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Clases Programacion y Laboratorio 2\Examenes\Parcial 1\Gonzalez.Manuel.2A\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Clases Programacion y Laboratorio 2\Examenes\Parcial 1\Gonzalez.Manuel.2A\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Clases Programacion y Laboratorio 2\Examenes\Parcial 1\Gonzalez.Manuel.2A\Entidades\obj\Debug\Entidades.dll
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Clases Programacion y Laboratorio 2\Examenes\Parcial 1\Gonzalez.Manuel.2A\Entidades\obj\Debug\Entidades.pdb
