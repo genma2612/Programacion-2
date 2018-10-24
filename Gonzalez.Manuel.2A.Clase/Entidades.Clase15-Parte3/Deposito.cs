@@ -22,9 +22,9 @@ namespace Entidades.Clase15_Parte3
                 using (sw = new StreamWriter(path, false))
                 {
                     sw.Write(this.ToString());
+                    retorno = true;
                 }
                 //sw.Close(); // cerrado automaticamente por las llaves del using
-                retorno = true;
             }
             catch (Exception)
             {
