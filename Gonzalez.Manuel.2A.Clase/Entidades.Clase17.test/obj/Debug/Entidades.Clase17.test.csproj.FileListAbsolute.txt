@@ -1,0 +1,10 @@
+D:\#Lab2Temp\Gonzalez.Manuel.2A.Clase\Entidades.Clase17.test\bin\Debug\Entidades.Clase17.test.exe.config
+D:\#Lab2Temp\Gonzalez.Manuel.2A.Clase\Entidades.Clase17.test\bin\Debug\Entidades.Clase17.test.exe
+D:\#Lab2Temp\Gonzalez.Manuel.2A.Clase\Entidades.Clase17.test\bin\Debug\Entidades.Clase17.test.pdb
+D:\#Lab2Temp\Gonzalez.Manuel.2A.Clase\Entidades.Clase17.test\bin\Debug\Entidades.Clase17.dll
+D:\#Lab2Temp\Gonzalez.Manuel.2A.Clase\Entidades.Clase17.test\bin\Debug\Entidades.Clase17.pdb
+D:\#Lab2Temp\Gonzalez.Manuel.2A.Clase\Entidades.Clase17.test\obj\Debug\Entidades.Clase17.test.csprojAssemblyReference.cache
+D:\#Lab2Temp\Gonzalez.Manuel.2A.Clase\Entidades.Clase17.test\obj\Debug\Entidades.Clase17.test.csproj.CoreCompileInputs.cache
+D:\#Lab2Temp\Gonzalez.Manuel.2A.Clase\Entidades.Clase17.test\obj\Debug\Entidades.Clase17.test.csproj.CopyComplete
+D:\#Lab2Temp\Gonzalez.Manuel.2A.Clase\Entidades.Clase17.test\obj\Debug\Entidades.Clase17.test.exe
+D:\#Lab2Temp\Gonzalez.Manuel.2A.Clase\Entidades.Clase17.test\obj\Debug\Entidades.Clase17.test.pdb
