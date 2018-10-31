@@ -1,0 +1,5 @@
+D:\#Lab2Temp\Examenes\Parcial 1 R\Entidades.RPP\bin\Debug\Entidades.RPP.dll
+D:\#Lab2Temp\Examenes\Parcial 1 R\Entidades.RPP\bin\Debug\Entidades.RPP.pdb
+D:\#Lab2Temp\Examenes\Parcial 1 R\Entidades.RPP\obj\Debug\Entidades.RPP.csproj.CoreCompileInputs.cache
+D:\#Lab2Temp\Examenes\Parcial 1 R\Entidades.RPP\obj\Debug\Entidades.RPP.dll
+D:\#Lab2Temp\Examenes\Parcial 1 R\Entidades.RPP\obj\Debug\Entidades.RPP.pdb

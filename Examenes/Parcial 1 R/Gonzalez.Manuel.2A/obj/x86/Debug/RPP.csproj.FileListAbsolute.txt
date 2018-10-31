@@ -1,0 +1,7 @@
+D:\#Lab2Temp\Examenes\Parcial 1 R\Gonzalez.Manuel.2A\obj\x86\Debug\RPP.csprojAssemblyReference.cache
+D:\#Lab2Temp\Examenes\Parcial 1 R\Gonzalez.Manuel.2A\obj\x86\Debug\PP.frmPP.resources
+D:\#Lab2Temp\Examenes\Parcial 1 R\Gonzalez.Manuel.2A\obj\x86\Debug\PP.Properties.Resources.resources
+D:\#Lab2Temp\Examenes\Parcial 1 R\Gonzalez.Manuel.2A\obj\x86\Debug\RPP.csproj.GenerateResource.cache
+D:\#Lab2Temp\Examenes\Parcial 1 R\Gonzalez.Manuel.2A\obj\x86\Debug\RPP.csproj.CoreCompileInputs.cache
+D:\#Lab2Temp\Examenes\Parcial 1 R\Gonzalez.Manuel.2A\obj\x86\Debug\PP.exe
+D:\#Lab2Temp\Examenes\Parcial 1 R\Gonzalez.Manuel.2A\obj\x86\Debug\PP.pdb

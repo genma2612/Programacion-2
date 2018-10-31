@@ -1,0 +1,22 @@
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2017_12_finales\PP\bin\Debug\PP.exe
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2017_12_finales\PP\bin\Debug\PP.pdb
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2017_12_finales\PP\bin\Debug\Entidades.PP.dll
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2017_12_finales\PP\bin\Debug\Entidades.PP.pdb
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2017_12_finales\PP\obj\x86\Debug\PP.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2017_12_finales\PP\obj\x86\Debug\PP.frmPP.resources
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2017_12_finales\PP\obj\x86\Debug\PP.Properties.Resources.resources
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2017_12_finales\PP\obj\x86\Debug\PP.csproj.GenerateResource.Cache
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2017_12_finales\PP\obj\x86\Debug\PP.exe
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2017_12_finales\PP\obj\x86\Debug\PP.pdb
+C:\Users\alumno\Desktop\2017_12_finales\PP\bin\Debug\PP.exe
+C:\Users\alumno\Desktop\2017_12_finales\PP\bin\Debug\PP.pdb
+C:\Users\alumno\Desktop\2017_12_finales\PP\bin\Debug\Entidades.PP.dll
+C:\Users\alumno\Desktop\2017_12_finales\PP\bin\Debug\Entidades.PP.pdb
+C:\Users\alumno\Desktop\2017_12_finales\PP\obj\x86\Debug\PP.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\2017_12_finales\PP\obj\x86\Debug\PP.frmPP.resources
+C:\Users\alumno\Desktop\2017_12_finales\PP\obj\x86\Debug\PP.Properties.Resources.resources
+C:\Users\alumno\Desktop\2017_12_finales\PP\obj\x86\Debug\PP.csproj.GenerateResource.Cache
+C:\Users\alumno\Desktop\2017_12_finales\PP\obj\x86\Debug\PP.exe
+C:\Users\alumno\Desktop\2017_12_finales\PP\obj\x86\Debug\PP.pdb
+C:\Users\alumno\Desktop\PP\obj\x86\Debug\PP.exe
+C:\Users\alumno\Desktop\PP\obj\x86\Debug\PP.pdb
