@@ -1,0 +1,18 @@
+D:\Federico\VB .Net\Visual C#\utn\Test\TestUnitario\obj\Debug\TestUnitario.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\Test\TestUnitario\bin\Debug\TestUnitario.dll
+D:\Federico\VB .Net\Visual C#\utn\Test\TestUnitario\bin\Debug\TestUnitario.pdb
+D:\Federico\VB .Net\Visual C#\utn\Test\TestUnitario\bin\Debug\Test.dll
+D:\Federico\VB .Net\Visual C#\utn\Test\TestUnitario\bin\Debug\Test.pdb
+D:\Federico\VB .Net\Visual C#\utn\Test\TestUnitario\obj\Debug\TestUnitario.dll
+D:\Federico\VB .Net\Visual C#\utn\Test\TestUnitario\obj\Debug\TestUnitario.pdb
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Clases Programacion y Laboratorio 2\Clase 17\TestFallas\TestUnitario\bin\Debug\TestUnitario.dll
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Clases Programacion y Laboratorio 2\Clase 17\TestFallas\TestUnitario\bin\Debug\TestUnitario.pdb
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Clases Programacion y Laboratorio 2\Clase 17\TestFallas\TestUnitario\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Clases Programacion y Laboratorio 2\Clase 17\TestFallas\TestUnitario\bin\Debug\Test.dll
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Clases Programacion y Laboratorio 2\Clase 17\TestFallas\TestUnitario\bin\Debug\Test.pdb
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Clases Programacion y Laboratorio 2\Clase 17\TestFallas\TestUnitario\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Clases Programacion y Laboratorio 2\Clase 17\TestFallas\TestUnitario\obj\Debug\TestUnitario.csprojAssemblyReference.cache
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Clases Programacion y Laboratorio 2\Clase 17\TestFallas\TestUnitario\obj\Debug\TestUnitario.csproj.CoreCompileInputs.cache
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Clases Programacion y Laboratorio 2\Clase 17\TestFallas\TestUnitario\obj\Debug\TestUnitario.csproj.CopyComplete
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Clases Programacion y Laboratorio 2\Clase 17\TestFallas\TestUnitario\obj\Debug\TestUnitario.dll
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Clases Programacion y Laboratorio 2\Clase 17\TestFallas\TestUnitario\obj\Debug\TestUnitario.pdb

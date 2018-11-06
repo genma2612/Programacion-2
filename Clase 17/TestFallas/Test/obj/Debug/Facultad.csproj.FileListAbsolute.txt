@@ -1,0 +1,11 @@
+D:\Federico\VB .Net\Visual C#\utn\Test\Test\bin\Debug\Test.dll
+D:\Federico\VB .Net\Visual C#\utn\Test\Test\bin\Debug\Test.pdb
+D:\Federico\VB .Net\Visual C#\utn\Test\Test\obj\Debug\Facultad.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\Test\Test\obj\Debug\Test.dll
+D:\Federico\VB .Net\Visual C#\utn\Test\Test\obj\Debug\Test.pdb
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Clases Programacion y Laboratorio 2\Clase 17\TestFallas\Test\bin\Debug\Test.dll
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Clases Programacion y Laboratorio 2\Clase 17\TestFallas\Test\bin\Debug\Test.pdb
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Clases Programacion y Laboratorio 2\Clase 17\TestFallas\Test\obj\Debug\Facultad.csprojAssemblyReference.cache
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Clases Programacion y Laboratorio 2\Clase 17\TestFallas\Test\obj\Debug\Facultad.csproj.CoreCompileInputs.cache
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Clases Programacion y Laboratorio 2\Clase 17\TestFallas\Test\obj\Debug\Test.dll
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Clases Programacion y Laboratorio 2\Clase 17\TestFallas\Test\obj\Debug\Test.pdb
