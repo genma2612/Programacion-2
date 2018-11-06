@@ -1,0 +1,35 @@
+.ldf (_log) definiciòn de la estructura de la base de datos (Campos, tipos, etc).
+.mdf datos de la base de datos.
+
+Base de datos relacional: Un conjunto de tablas, una o màs, que se relacionan entre sì mediante una columna o varias columnas
+de las tablas. Generar una relación de datos entre las tablas que puedan brindar información sobre la base de datos. A su vez,
+las tablas son una colección de columnas, de al menos una a N columnas. Podría verde como una suerte de "Matriz", cada columna
+puede ser de un tipo dato distinto que la anterior, o todas del mismo tipo. Él tipo de datos de Microsoft SQL server coinciden
+con los de Visual Studio.
+Primary Key: Asegura que ningún valor de esa columna sea repetido en los N registros que tenga la tabla (será único) y no podrá ser
+nulo. También se encuentra indexado para que su búsqueda se haga más rápida. Puede estar conformada por más de una columna.
+Hay campos que permitirán valores nulos y campos que no.
+
+EJ código SQL que lée las 1ras 1000 filas.
+/****** Script para el comando SelectTopNRows de SSMS  ******/
+SELECT TOP 1000 [codigo]
+      ,[marca]
+      ,[precio]
+      ,[pulgadas]
+      ,[pais]
+  FROM [Productos].[dbo].[Televisores]
+/******
+
+Instrucciones 
+SELECT: permite seleccionar determinada cant. de columnas de la tabla de la base de datos.
+sintaxis: SELECT [campo1], campo2, campoN. (Corchetes opcionales). 
+*: caracter "comodin" que incluye todos los campos.
+FROM: De donde se leerán las columnas.
+sintaxis: FROM nombreDeLaTabla ej. FROM [Productos].[dbo].[Televisores]
+TOP: Devuelve las primeras N cantidad de filas.
+WHERE: restringe que campos se muestran según condición. Pueden usarse operadores lógicos.
+ORDER BY: Ordena segun criterio.
+ORDER BY campo ASC/DESC (default ASC)
+ORDER BY campo, campo2 (Ejemplo, Apellido, Nombre)
+AS: asigna un alias a un campo.
+SELECT campo1 AS alias, campo2 AS alias, etc.
