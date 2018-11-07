@@ -18,13 +18,16 @@ namespace Ejercicio_Clase_18_SQL
         public int pulgadas;
         public string pais;
 
+        // String con la direcciòn del servidor:
+        //public static string conexion = Properties.Settings.Default.Conexión_Casa;
+        public static string conexion = Properties.Settings.Default.Conexiòn;
+
 
 
         public bool Insertar()
         {
             bool retorno = false;
-            SqlConnection conexion = new SqlConnection(Properties.Settings.Default.Conexión_Casa);
-            //SqlConnection conexion = new SqlConnection(Properties.Settings.Default.Conexiòn);
+            SqlConnection conexion = new SqlConnection(Televisor.conexion);
             SqlCommand comando = new SqlCommand();
             comando.CommandText = string.Format("INSERT INTO Televisores values ({0},'{1}',{2},{3},'{4}')", this.codigo, this.marca, this.precio, this.pulgadas, this.pais);
             /*comando.CommandText = "INSERT INTO Televisores (codigo,marca,precio,pulgadas,pais) " +
@@ -45,6 +48,97 @@ namespace Ejercicio_Clase_18_SQL
             return retorno;
         }
 
+        public static bool Modificar(Televisor t)
+        {
+            bool retorno = false;
+            SqlConnection conexion = new SqlConnection(Televisor.conexion);
+            SqlCommand comando = new SqlCommand();
+            comando.CommandText = string.Format("UPDATE Televisores SET marca='{0}',precio={1},pulgadas={2},pais='{3}' WHERE codigo={4}", t.marca, t.precio, t.pulgadas, t.pais, t.codigo);
+            comando.CommandType = System.Data.CommandType.Text;
+            comando.Connection = conexion;
+            try
+            {
+                conexion.Open();
+                comando.ExecuteNonQuery();
+                conexion.Close();
+                retorno = true;
+            }
+            catch (Exception)
+            {
+            }
+            return retorno;
+        }
+
+        public static bool Borrar(Televisor t)
+        {
+            bool retorno = false;
+            SqlConnection conexion = new SqlConnection(Televisor.conexion);
+            SqlCommand comando = new SqlCommand();
+            comando.CommandText = string.Format("DELETE FROM Televisores WHERE codigo={0}", t.codigo);
+            comando.CommandType = System.Data.CommandType.Text;
+            comando.Connection = conexion;
+            try
+            {
+                conexion.Open();
+                comando.ExecuteNonQuery();
+                conexion.Close();
+                retorno = true;
+            }
+            catch (Exception)
+            {
+            }
+            return retorno;
+        }
+
+        
+        public static List<Televisor> TraerTodos()
+        {
+            List<Televisor> lista = new List<Televisor>();
+            SqlConnection conexion = new SqlConnection(Televisor.conexion);
+            SqlCommand comando = new SqlCommand();
+            comando.CommandText = "SELECT * FROM Televisores";
+            comando.CommandType = System.Data.CommandType.Text;
+            comando.Connection = conexion;
+            try
+            {
+                conexion.Open();
+                SqlDataReader lector = comando.ExecuteReader();
+                while (lector.Read())
+                {
+                    lista.Add(new Televisor(lector.GetInt32(0), lector.GetString(1), lector.GetDouble(2), lector.GetInt32(3), lector.GetString(4)));
+                }
+                conexion.Close();
+            }
+            catch (Exception)
+            {
+            }
+            return lista;
+        }
+
+        public static Televisor TraerUno(int codigo)
+        {
+            Televisor retorno = null;
+            SqlConnection conexion = new SqlConnection(Televisor.conexion);
+            SqlCommand comando = new SqlCommand();
+            comando.CommandText = string.Format("SELECT * FROM Televisores WHERE codigo={0}", codigo);
+            comando.CommandType = System.Data.CommandType.Text;
+            comando.Connection = conexion;
+            try
+            {
+                conexion.Open();
+                SqlDataReader lector = comando.ExecuteReader();
+                if (lector.HasRows)
+                {
+                    lector.Read();
+                    retorno = new Televisor(lector.GetInt32(0), lector.GetString(1), lector.GetDouble(2), lector.GetInt32(3), lector.GetString(4));
+                }
+                conexion.Close();
+            }
+            catch (Exception)
+            {
+            }
+            return retorno;
+        }
 
         public Televisor()
         {

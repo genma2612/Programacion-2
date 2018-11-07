@@ -1,0 +1,7 @@
+D:\#Lab2Temp\Gonzalez.Manuel.2A.Clase\Entidades.Clase19\bin\Debug\Entidades.Clase19.dll.config
+D:\#Lab2Temp\Gonzalez.Manuel.2A.Clase\Entidades.Clase19\bin\Debug\Entidades.Clase19.dll
+D:\#Lab2Temp\Gonzalez.Manuel.2A.Clase\Entidades.Clase19\bin\Debug\Entidades.Clase19.pdb
+D:\#Lab2Temp\Gonzalez.Manuel.2A.Clase\Entidades.Clase19\obj\Debug\Entidades.Clase19.csprojAssemblyReference.cache
+D:\#Lab2Temp\Gonzalez.Manuel.2A.Clase\Entidades.Clase19\obj\Debug\Entidades.Clase19.csproj.CoreCompileInputs.cache
+D:\#Lab2Temp\Gonzalez.Manuel.2A.Clase\Entidades.Clase19\obj\Debug\Entidades.Clase19.dll
+D:\#Lab2Temp\Gonzalez.Manuel.2A.Clase\Entidades.Clase19\obj\Debug\Entidades.Clase19.pdb

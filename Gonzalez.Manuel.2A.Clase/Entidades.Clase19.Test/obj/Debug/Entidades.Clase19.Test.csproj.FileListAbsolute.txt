@@ -1,0 +1,11 @@
+D:\#Lab2Temp\Gonzalez.Manuel.2A.Clase\Entidades.Clase19.Test\bin\Debug\Entidades.Clase19.Test.exe.config
+D:\#Lab2Temp\Gonzalez.Manuel.2A.Clase\Entidades.Clase19.Test\bin\Debug\Entidades.Clase19.Test.exe
+D:\#Lab2Temp\Gonzalez.Manuel.2A.Clase\Entidades.Clase19.Test\bin\Debug\Entidades.Clase19.Test.pdb
+D:\#Lab2Temp\Gonzalez.Manuel.2A.Clase\Entidades.Clase19.Test\bin\Debug\Entidades.Clase19.dll
+D:\#Lab2Temp\Gonzalez.Manuel.2A.Clase\Entidades.Clase19.Test\bin\Debug\Entidades.Clase19.pdb
+D:\#Lab2Temp\Gonzalez.Manuel.2A.Clase\Entidades.Clase19.Test\bin\Debug\Entidades.Clase19.dll.config
+D:\#Lab2Temp\Gonzalez.Manuel.2A.Clase\Entidades.Clase19.Test\obj\Debug\Entidades.Clase19.Test.csprojAssemblyReference.cache
+D:\#Lab2Temp\Gonzalez.Manuel.2A.Clase\Entidades.Clase19.Test\obj\Debug\Entidades.Clase19.Test.csproj.CoreCompileInputs.cache
+D:\#Lab2Temp\Gonzalez.Manuel.2A.Clase\Entidades.Clase19.Test\obj\Debug\Entidades.Clase19.Test.csproj.CopyComplete
+D:\#Lab2Temp\Gonzalez.Manuel.2A.Clase\Entidades.Clase19.Test\obj\Debug\Entidades.Clase19.Test.exe
+D:\#Lab2Temp\Gonzalez.Manuel.2A.Clase\Entidades.Clase19.Test\obj\Debug\Entidades.Clase19.Test.pdb

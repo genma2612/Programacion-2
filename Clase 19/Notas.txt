@@ -1,0 +1,3 @@
+comando.CommandText = string.Format("UPDATE Televisores SET {0},'{1}',{2},{3},'{4}')", t.codigo, t.marca, t.precio, t.pulgadas, t.pais);
+comando.CommandText = string.Format("DELETE FROM Televisores WHERE codigo={0}", t.codigo);
+

@@ -23,8 +23,8 @@ namespace Ejercicio_Clase_18_SQL
              * Objeto SqlConnection depende del proveedor de datos. En este caso, la base de datos de tipo SQL server. 
              */
 
-            SqlConnection conexion = new SqlConnection(Properties.Settings.Default.Conexión_Casa);
-            //SqlConnection conexion = new SqlConnection(Properties.Settings.Default.Conexiòn); //la cadena de conexiòn creada en configuraciòn.
+            //SqlConnection conexion = new SqlConnection(Properties.Settings.Default.Conexiòn);  //la cadena de conexiòn creada en configuraciòn.
+            SqlConnection conexion = new SqlConnection(Televisor.conexion);
             
             // Configuraciones.
             SqlCommand comando = new SqlCommand(); //Permite trabajar con la base de datos.
@@ -73,9 +73,27 @@ namespace Ejercicio_Clase_18_SQL
             tabla2.ReadXmlSchema("Televisores_Esquema.xml");
             tabla2.ReadXml("Televisores_DT.xml");
 
-            // Agregar a la DB
-            Televisor T3 = new Televisor(125, "Samsung", 13500, 49, "Corea del sur");
+            // Agregar elemento a DB
+            Televisor T3 = new Televisor(125, "Samsung", 13550, 49, "Corea del Sur");
             T3.Insertar();
+            Console.WriteLine("Inserto un elemento.");
+            Console.ReadKey();
+            // Modificar elemento DB
+            Televisor T3b = new Televisor(125, "LG", 13500, 49, "Corea del Sur");
+            Televisor.Modificar(T3b);
+            Console.WriteLine("Modifico un elemento.");
+            Console.ReadKey();
+            // Borrar elemento DB
+            Televisor.Borrar(T3b);
+            Console.WriteLine("Borro un elemento.");
+            Console.ReadKey();
+
+
+
+            // Lista nueva TraerTodos
+            List<Televisor> ListaNueva = Televisor.TraerTodos();
+            // Televisor desde DB
+            Televisor TDB = Televisor.TraerUno(123);
             Console.ReadKey();
         }
     }
