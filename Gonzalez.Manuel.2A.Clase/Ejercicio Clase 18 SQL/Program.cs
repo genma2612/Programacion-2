@@ -22,56 +22,60 @@ namespace Ejercicio_Clase_18_SQL
              * (Si se cambia el cliente de la base de datos, debe cambiarse system.Data.clienteDeBaseDeDatos, ejemplo, Oracle)
              * Objeto SqlConnection depende del proveedor de datos. En este caso, la base de datos de tipo SQL server. 
              */
-           
-            SqlConnection conexiòn = new SqlConnection(Properties.Settings.Default.Conexiòn); //la cadena de conexiòn creada en configuraciòn.
+
+            SqlConnection conexion = new SqlConnection(Properties.Settings.Default.Conexión_Casa);
+            //SqlConnection conexion = new SqlConnection(Properties.Settings.Default.Conexiòn); //la cadena de conexiòn creada en configuraciòn.
+            
             // Configuraciones.
             SqlCommand comando = new SqlCommand(); //Permite trabajar con la base de datos.
             comando.CommandText = "SELECT * FROM Televisores"; //Segùn commandType.
             comando.CommandType = System.Data.CommandType.Text; // Que espera recibir CommandText
-            comando.Connection = conexiòn; // 
+            comando.Connection = conexion; // 
 
-            conexiòn.Open(); //Abre la conexiòn entre la aplicaciòn y la base de datos. Sòlo se encarga de eso.
+            conexion.Open(); //Abre la conexiòn entre la aplicaciòn y la base de datos. Sòlo se encarga de eso.
                              //Es conveniente hacerlo a lo ùltimo. Lo màs tarde posible y que se cierre lo màs pronto posible.
 
             SqlDataReader lector = comando.ExecuteReader(); // SqlDataReader tiene sus constructores privados.
                                                             // obj de sòlo lectura y sòlo avance.
+
             List<Televisor> lista = new List<Televisor>();
             while (lector.Read())
             {
                 Console.WriteLine(lector["codigo"] + " - " + lector[1] + " - " + lector[2] + " - " + lector[3] + " - " + lector[4]);
-                lista.Add(new Televisor((int)lector[0], (string)lector[1], (double) lector[2], (int)lector[3], (string)lector[4]));
-                //lista.Add(new Televisor(lector.GetInt32(0), lector.GetString(1), lector.GetDouble(2), lector.GetInt32(3), lector.GetString(4)));
+                //lista.Add(new Televisor((int)lector[0], (string)lector[1], (double) lector[2], (int)lector[3], (string)lector[4]));
+                lista.Add(new Televisor(lector.GetInt32(0), lector.GetString(1), lector.GetDouble(2), lector.GetInt32(3), lector.GetString(4)));
             }
-            conexiòn.Close(); //Cierra la conexiòn entre la aplicaciòn y la base de datos.
+            conexion.Close(); //Cierra la conexiòn entre la aplicaciòn y la base de datos.
 
             // Serializacion XML
 
-            XmlSerializer serializer = new XmlSerializer(typeof(Televisor));
+            XmlSerializer serializer = new XmlSerializer(typeof(List<Televisor>));
             XmlTextWriter writer = new XmlTextWriter("Televisores.xml", Encoding.UTF8);
             serializer.Serialize(writer, lista);
             writer.Close();
 
-
             XmlTextReader reader = new XmlTextReader("Televisores.xml");
+            List<Televisor> L = (List<Televisor>) serializer.Deserialize(reader);
             reader.Close();
 
-            List<Televisor> L = (List<Televisor>) serializer.Deserialize(reader);
+            // DataTable
 
-
-            conexiòn.Open();
+            conexion.Open();
+            lector = comando.ExecuteReader();
             DataTable tabla = new DataTable("Televisores");
             tabla.Load(lector);
-            conexiòn.Close();
+            conexion.Close();
+
             tabla.WriteXmlSchema("Televisores_Esquema.xml");
             tabla.WriteXml("Televisores_DT.xml");
 
             DataTable tabla2 = new DataTable();
-            tabla2.Load(lector);
             tabla2.ReadXmlSchema("Televisores_Esquema.xml");
-            tabla2.ReadXml("Televisores_Esquema.xml");
+            tabla2.ReadXml("Televisores_DT.xml");
 
-
-
+            // Agregar a la DB
+            Televisor T3 = new Televisor(125, "Samsung", 13500, 49, "Corea del sur");
+            T3.Insertar();
             Console.ReadKey();
         }
     }

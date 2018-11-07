@@ -5,3 +5,10 @@ D:\#Lab2Temp\Gonzalez.Manuel.2A.Clase\Ejercicio Clase 18 SQL\obj\Debug\Ejercicio
 D:\#Lab2Temp\Gonzalez.Manuel.2A.Clase\Ejercicio Clase 18 SQL\obj\Debug\Ejercicio Clase 18 SQL.csproj.CoreCompileInputs.cache
 D:\#Lab2Temp\Gonzalez.Manuel.2A.Clase\Ejercicio Clase 18 SQL\obj\Debug\Ejercicio Clase 18 SQL.exe
 D:\#Lab2Temp\Gonzalez.Manuel.2A.Clase\Ejercicio Clase 18 SQL\obj\Debug\Ejercicio Clase 18 SQL.pdb
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Clases Programacion y Laboratorio 2\Gonzalez.Manuel.2A.Clase\Ejercicio Clase 18 SQL\bin\Debug\Ejercicio Clase 18 SQL.exe.config
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Clases Programacion y Laboratorio 2\Gonzalez.Manuel.2A.Clase\Ejercicio Clase 18 SQL\bin\Debug\Ejercicio Clase 18 SQL.exe
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Clases Programacion y Laboratorio 2\Gonzalez.Manuel.2A.Clase\Ejercicio Clase 18 SQL\bin\Debug\Ejercicio Clase 18 SQL.pdb
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Clases Programacion y Laboratorio 2\Gonzalez.Manuel.2A.Clase\Ejercicio Clase 18 SQL\obj\Debug\Ejercicio Clase 18 SQL.csprojAssemblyReference.cache
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Clases Programacion y Laboratorio 2\Gonzalez.Manuel.2A.Clase\Ejercicio Clase 18 SQL\obj\Debug\Ejercicio Clase 18 SQL.csproj.CoreCompileInputs.cache
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Clases Programacion y Laboratorio 2\Gonzalez.Manuel.2A.Clase\Ejercicio Clase 18 SQL\obj\Debug\Ejercicio Clase 18 SQL.exe
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Clases Programacion y Laboratorio 2\Gonzalez.Manuel.2A.Clase\Ejercicio Clase 18 SQL\obj\Debug\Ejercicio Clase 18 SQL.pdb

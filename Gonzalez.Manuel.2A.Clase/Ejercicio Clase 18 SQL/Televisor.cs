@@ -23,18 +23,25 @@ namespace Ejercicio_Clase_18_SQL
         public bool Insertar()
         {
             bool retorno = false;
-            SqlConnection conexiòn = new SqlConnection(Properties.Settings.Default.Conexiòn);
+            SqlConnection conexion = new SqlConnection(Properties.Settings.Default.Conexión_Casa);
+            //SqlConnection conexion = new SqlConnection(Properties.Settings.Default.Conexiòn);
             SqlCommand comando = new SqlCommand();
             comando.CommandText = string.Format("INSERT INTO Televisores values ({0},'{1}',{2},{3},'{4}')", this.codigo, this.marca, this.precio, this.pulgadas, this.pais);
             /*comando.CommandText = "INSERT INTO Televisores (codigo,marca,precio,pulgadas,pais) " +
                 "values (" + this.codigo + "," + this.marca + "," + this.precio + "," + this.pulgadas + 
                 "," + this.pais + ")"; //si dejo vacio los campos, por defecto toma todos los valores.*/
             comando.CommandType = System.Data.CommandType.Text;
-            comando.Connection = conexiòn;
-            conexiòn.Open();
-            comando.ExecuteNonQuery();
-            conexiòn.Close();
-            //conexiòn.
+            comando.Connection = conexion;
+            try
+            {
+                conexion.Open();
+                comando.ExecuteNonQuery();
+                conexion.Close();
+                retorno = true;
+            }
+            catch (Exception)
+            {
+            }
             return retorno;
         }
 
