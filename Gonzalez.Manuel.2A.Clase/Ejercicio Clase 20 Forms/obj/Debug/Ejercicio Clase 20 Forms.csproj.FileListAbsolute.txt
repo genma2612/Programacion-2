@@ -1,0 +1,10 @@
+D:\#Lab2Temp\Gonzalez.Manuel.2A.Clase\Ejercicio Clase 20 Forms\bin\Debug\Ejercicio Clase 20 Forms.exe.config
+D:\#Lab2Temp\Gonzalez.Manuel.2A.Clase\Ejercicio Clase 20 Forms\bin\Debug\Ejercicio Clase 20 Forms.exe
+D:\#Lab2Temp\Gonzalez.Manuel.2A.Clase\Ejercicio Clase 20 Forms\bin\Debug\Ejercicio Clase 20 Forms.pdb
+D:\#Lab2Temp\Gonzalez.Manuel.2A.Clase\Ejercicio Clase 20 Forms\obj\Debug\Ejercicio Clase 20 Forms.csprojAssemblyReference.cache
+D:\#Lab2Temp\Gonzalez.Manuel.2A.Clase\Ejercicio Clase 20 Forms\obj\Debug\Ejercicio_Clase_20_Forms.frmPrincipal.resources
+D:\#Lab2Temp\Gonzalez.Manuel.2A.Clase\Ejercicio Clase 20 Forms\obj\Debug\Ejercicio_Clase_20_Forms.Properties.Resources.resources
+D:\#Lab2Temp\Gonzalez.Manuel.2A.Clase\Ejercicio Clase 20 Forms\obj\Debug\Ejercicio Clase 20 Forms.csproj.GenerateResource.cache
+D:\#Lab2Temp\Gonzalez.Manuel.2A.Clase\Ejercicio Clase 20 Forms\obj\Debug\Ejercicio Clase 20 Forms.csproj.CoreCompileInputs.cache
+D:\#Lab2Temp\Gonzalez.Manuel.2A.Clase\Ejercicio Clase 20 Forms\obj\Debug\Ejercicio Clase 20 Forms.exe
+D:\#Lab2Temp\Gonzalez.Manuel.2A.Clase\Ejercicio Clase 20 Forms\obj\Debug\Ejercicio Clase 20 Forms.pdb

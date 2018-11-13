@@ -1,0 +1,12 @@
+D:\#Lab2Temp\Gonzalez.Manuel.2A.Clase\Ejercicio Clase 20 Delegados y Forms\bin\Debug\Ejercicio Clase 20 Delegados y Forms.exe.config
+D:\#Lab2Temp\Gonzalez.Manuel.2A.Clase\Ejercicio Clase 20 Delegados y Forms\bin\Debug\Ejercicio Clase 20 Delegados y Forms.exe
+D:\#Lab2Temp\Gonzalez.Manuel.2A.Clase\Ejercicio Clase 20 Delegados y Forms\bin\Debug\Ejercicio Clase 20 Delegados y Forms.pdb
+D:\#Lab2Temp\Gonzalez.Manuel.2A.Clase\Ejercicio Clase 20 Delegados y Forms\obj\Debug\Ejercicio_Clase_20_Delegados_y_Forms.frmPrincipal.resources
+D:\#Lab2Temp\Gonzalez.Manuel.2A.Clase\Ejercicio Clase 20 Delegados y Forms\obj\Debug\Ejercicio_Clase_20_Delegados_y_Forms.Properties.Resources.resources
+D:\#Lab2Temp\Gonzalez.Manuel.2A.Clase\Ejercicio Clase 20 Delegados y Forms\obj\Debug\Ejercicio Clase 20 Delegados y Forms.csproj.GenerateResource.cache
+D:\#Lab2Temp\Gonzalez.Manuel.2A.Clase\Ejercicio Clase 20 Delegados y Forms\obj\Debug\Ejercicio Clase 20 Delegados y Forms.csproj.CoreCompileInputs.cache
+D:\#Lab2Temp\Gonzalez.Manuel.2A.Clase\Ejercicio Clase 20 Delegados y Forms\obj\Debug\Ejercicio Clase 20 Delegados y Forms.exe
+D:\#Lab2Temp\Gonzalez.Manuel.2A.Clase\Ejercicio Clase 20 Delegados y Forms\obj\Debug\Ejercicio Clase 20 Delegados y Forms.pdb
+D:\#Lab2Temp\Gonzalez.Manuel.2A.Clase\Ejercicio Clase 20 Delegados y Forms\obj\Debug\Ejercicio Clase 20 Delegados y Forms.csprojAssemblyReference.cache
+D:\#Lab2Temp\Gonzalez.Manuel.2A.Clase\Ejercicio Clase 20 Delegados y Forms\obj\Debug\Ejercicio_Clase_20_Delegados_y_Forms.frmDatos.resources
+D:\#Lab2Temp\Gonzalez.Manuel.2A.Clase\Ejercicio Clase 20 Delegados y Forms\obj\Debug\Ejercicio_Clase_20_Delegados_y_Forms.frmTestDelegados.resources
