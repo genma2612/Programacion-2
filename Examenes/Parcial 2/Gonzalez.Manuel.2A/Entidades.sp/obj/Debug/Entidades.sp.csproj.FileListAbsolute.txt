@@ -1,0 +1,6 @@
+D:\#Lab2Temp\Examenes\Parcial 2\Gonzalez.Manuel.2A\Entidades.sp\bin\Debug\Entidades.sp.dll
+D:\#Lab2Temp\Examenes\Parcial 2\Gonzalez.Manuel.2A\Entidades.sp\bin\Debug\Entidades.sp.pdb
+D:\#Lab2Temp\Examenes\Parcial 2\Gonzalez.Manuel.2A\Entidades.sp\obj\Debug\Entidades.sp.csprojAssemblyReference.cache
+D:\#Lab2Temp\Examenes\Parcial 2\Gonzalez.Manuel.2A\Entidades.sp\obj\Debug\Entidades.sp.csproj.CoreCompileInputs.cache
+D:\#Lab2Temp\Examenes\Parcial 2\Gonzalez.Manuel.2A\Entidades.sp\obj\Debug\Entidades.sp.dll
+D:\#Lab2Temp\Examenes\Parcial 2\Gonzalez.Manuel.2A\Entidades.sp\obj\Debug\Entidades.sp.pdb
