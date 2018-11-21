@@ -1,0 +1,13 @@
+D:\#Lab2Temp\Gonzalez.Manuel.2A.Clase\Entidades.Clase23.Test\bin\Debug\Entidades.Clase23.Test.exe.config
+D:\#Lab2Temp\Gonzalez.Manuel.2A.Clase\Entidades.Clase23.Test\bin\Debug\Entidades.Clase23.Test.exe
+D:\#Lab2Temp\Gonzalez.Manuel.2A.Clase\Entidades.Clase23.Test\bin\Debug\Entidades.Clase23.Test.pdb
+D:\#Lab2Temp\Gonzalez.Manuel.2A.Clase\Entidades.Clase23.Test\bin\Debug\Entidades.Clase23.dll
+D:\#Lab2Temp\Gonzalez.Manuel.2A.Clase\Entidades.Clase23.Test\bin\Debug\Entidades.Clase23.pdb
+D:\#Lab2Temp\Gonzalez.Manuel.2A.Clase\Entidades.Clase23.Test\obj\Debug\Entidades.Clase23.Test.csprojAssemblyReference.cache
+D:\#Lab2Temp\Gonzalez.Manuel.2A.Clase\Entidades.Clase23.Test\obj\Debug\Entidades.Clase23.Test.csproj.CoreCompileInputs.cache
+D:\#Lab2Temp\Gonzalez.Manuel.2A.Clase\Entidades.Clase23.Test\obj\Debug\Entidades.Clase23.Test.csproj.CopyComplete
+D:\#Lab2Temp\Gonzalez.Manuel.2A.Clase\Entidades.Clase23.Test\obj\Debug\Entidades.Clase23.Test.exe
+D:\#Lab2Temp\Gonzalez.Manuel.2A.Clase\Entidades.Clase23.Test\obj\Debug\Entidades.Clase23.Test.pdb
+D:\#Lab2Temp\Gonzalez.Manuel.2A.Clase\Entidades.Clase23.Test\bin\Debug\Entidades.Externa.dll
+D:\#Lab2Temp\Gonzalez.Manuel.2A.Clase\Entidades.Clase23.Test\bin\Debug\Entidades.Externa.Sellada.dll
+D:\#Lab2Temp\Gonzalez.Manuel.2A.Clase\Entidades.Clase23.Test\bin\Debug\Entidades.Clase23.dll.config
