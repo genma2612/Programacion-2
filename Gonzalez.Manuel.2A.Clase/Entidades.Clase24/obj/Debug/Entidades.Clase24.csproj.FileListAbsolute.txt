@@ -1,0 +1,7 @@
+D:\#Lab2 Temp\Gonzalez.Manuel.2A.Clase\Entidades.Clase24\bin\Debug\Entidades.Clase24.dll.config
+D:\#Lab2 Temp\Gonzalez.Manuel.2A.Clase\Entidades.Clase24\bin\Debug\Entidades.Clase24.dll
+D:\#Lab2 Temp\Gonzalez.Manuel.2A.Clase\Entidades.Clase24\bin\Debug\Entidades.Clase24.pdb
+D:\#Lab2 Temp\Gonzalez.Manuel.2A.Clase\Entidades.Clase24\obj\Debug\Entidades.Clase24.csprojAssemblyReference.cache
+D:\#Lab2 Temp\Gonzalez.Manuel.2A.Clase\Entidades.Clase24\obj\Debug\Entidades.Clase24.csproj.CoreCompileInputs.cache
+D:\#Lab2 Temp\Gonzalez.Manuel.2A.Clase\Entidades.Clase24\obj\Debug\Entidades.Clase24.dll
+D:\#Lab2 Temp\Gonzalez.Manuel.2A.Clase\Entidades.Clase24\obj\Debug\Entidades.Clase24.pdb
