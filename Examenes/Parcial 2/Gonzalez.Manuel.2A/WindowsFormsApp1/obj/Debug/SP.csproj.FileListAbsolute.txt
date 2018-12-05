@@ -21,3 +21,16 @@ D:\#Lab2Temp\Examenes\Parcial 2\Gonzalez.Manuel.2A\WindowsFormsApp1\bin\Debug\SP
 D:\#Lab2Temp\Examenes\Parcial 2\Gonzalez.Manuel.2A\WindowsFormsApp1\bin\Debug\Entidades.sp.dll
 D:\#Lab2Temp\Examenes\Parcial 2\Gonzalez.Manuel.2A\WindowsFormsApp1\bin\Debug\Entidades.sp.pdb
 D:\#Lab2Temp\Examenes\Parcial 2\Gonzalez.Manuel.2A\WindowsFormsApp1\obj\Debug\SP.csproj.CopyComplete
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Clases Programacion y Laboratorio 2\Examenes\Parcial 2\Gonzalez.Manuel.2A\WindowsFormsApp1\bin\Debug\SP.exe.config
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Clases Programacion y Laboratorio 2\Examenes\Parcial 2\Gonzalez.Manuel.2A\WindowsFormsApp1\bin\Debug\SP.exe
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Clases Programacion y Laboratorio 2\Examenes\Parcial 2\Gonzalez.Manuel.2A\WindowsFormsApp1\bin\Debug\SP.pdb
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Clases Programacion y Laboratorio 2\Examenes\Parcial 2\Gonzalez.Manuel.2A\WindowsFormsApp1\bin\Debug\Entidades.sp.dll
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Clases Programacion y Laboratorio 2\Examenes\Parcial 2\Gonzalez.Manuel.2A\WindowsFormsApp1\bin\Debug\Entidades.sp.pdb
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Clases Programacion y Laboratorio 2\Examenes\Parcial 2\Gonzalez.Manuel.2A\WindowsFormsApp1\obj\Debug\SP.csprojAssemblyReference.cache
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Clases Programacion y Laboratorio 2\Examenes\Parcial 2\Gonzalez.Manuel.2A\WindowsFormsApp1\obj\Debug\SP.SegundoParcial.resources
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Clases Programacion y Laboratorio 2\Examenes\Parcial 2\Gonzalez.Manuel.2A\WindowsFormsApp1\obj\Debug\SP.Properties.Resources.resources
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Clases Programacion y Laboratorio 2\Examenes\Parcial 2\Gonzalez.Manuel.2A\WindowsFormsApp1\obj\Debug\SP.csproj.GenerateResource.cache
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Clases Programacion y Laboratorio 2\Examenes\Parcial 2\Gonzalez.Manuel.2A\WindowsFormsApp1\obj\Debug\SP.csproj.CoreCompileInputs.cache
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Clases Programacion y Laboratorio 2\Examenes\Parcial 2\Gonzalez.Manuel.2A\WindowsFormsApp1\obj\Debug\SP.csproj.CopyComplete
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Clases Programacion y Laboratorio 2\Examenes\Parcial 2\Gonzalez.Manuel.2A\WindowsFormsApp1\obj\Debug\SP.exe
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Clases Programacion y Laboratorio 2\Examenes\Parcial 2\Gonzalez.Manuel.2A\WindowsFormsApp1\obj\Debug\SP.pdb

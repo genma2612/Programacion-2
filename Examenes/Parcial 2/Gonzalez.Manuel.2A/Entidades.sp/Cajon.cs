@@ -9,13 +9,15 @@ using System.Xml.Serialization;
 
 namespace Entidades.sp
 {
-    public delegate void EventoPrecio();
+    public delegate void EventoPrecio(string s, double d);
 
     public class Cajon<T> :ISerializar<T>
     {
         protected int _capacidad;
         protected List<T> _elementos;
         protected double _precioUnitario;
+
+        public event EventoPrecio MuyCaro;
 
         public List<T> Elementos { get { return this._elementos; } }
         public double PrecioTotal { get { return this._elementos.Count * this._precioUnitario; } }
@@ -53,6 +55,8 @@ namespace Entidades.sp
             if (c.Elementos.Count < c._capacidad)
             {
                 c.Elementos.Add(f);
+                if(c.PrecioTotal > 55)
+                    c.MuyCaro("PrecioCajon.txt", c.PrecioTotal);
             }
             else
                 throw new CajonLlenoException();

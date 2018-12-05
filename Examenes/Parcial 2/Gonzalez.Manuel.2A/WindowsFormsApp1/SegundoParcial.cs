@@ -151,7 +151,8 @@ namespace SP
         private void btnPunto5_Click(object sender, EventArgs e)
         {
             //Asociar manejador de eventos y crearlo en la clase Manejadora (de instancia).
-
+            Manejadora m = new Manejadora();
+            this.c_bananas.MuyCaro += m.PrecioCaro;
             this.c_bananas += new Banana("verde", 2, "argentina");
             this.c_bananas += new Banana("amarilla", 4, "ecuador");
         }
@@ -210,7 +211,10 @@ namespace SP
             SqlConnection conexion = new SqlConnection(Properties.Settings.Default.cone);
             SqlCommand comando = new SqlCommand();
             //comando.CommandText = string.Format("INSERT INTO frutas values ({0},'{1}',{2},{3})", 
-                
+            foreach (Fruta item in this)
+            {
+
+            }
             comando.CommandType = System.Data.CommandType.Text;
             comando.Connection = conexion;
             try
