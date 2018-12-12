@@ -8,6 +8,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Globalization;
 using Entidades.sp;
 
 namespace SP
@@ -209,6 +210,8 @@ namespace SP
 
         private static bool AgregarFrutas(SegundoParcial frm)
         {
+            CultureInfo internationalCulture = new CultureInfo("en-US", true); //Para que funcione en cualquier PC con cualquier config. locale/de idioma.
+            Random r = new Random(); //Generador de precio random                             
             List<Fruta> l = new List<Fruta>();
             l.Add(frm._manzana);
             l.Add(frm._banana);
@@ -219,14 +222,8 @@ namespace SP
             command.Connection = conexion;
             foreach (Fruta item in l)
             {
-                string cadena = "INSERT INTO sp_lab_II.dbo.frutas (nombre, peso, precio) values (";
-                if (item is Manzana)
-                    cadena += string.Format("'manzana', {0}, {1})", item.Peso, (double)3);
-                if(item is Durazno)
-                    cadena += string.Format("'durazno', {0}, {1})", item.Peso, (double)9);
-                if(item is Banana)
-                    cadena += string.Format("'banana', {0}, {1})", item.Peso, (double)15);
-                command.CommandText = cadena;
+                command.CommandText = string.Format(internationalCulture, "INSERT INTO sp_lab_II.dbo.frutas (nombre, peso, precio) values ('{0}',{1},{2})", 
+                                                                            item.GetType().Name, item.Peso, (double)r.Next(1, 60));
                 try
                 {
                     conexion.Open();
